@@ -20,10 +20,10 @@ O projeto é uma representação de uma "landing page" com uma empresa fictícia
 
 ### Links
 
-- Site do projeto: [Projeto](https://bruno-nog.github.io/simple-omelette-recipe/)
+- Site do projeto: [Projeto](https://bruno-nog.github.io/landing-page-with-grid-agencia-xyz/)
 
 
-### Feito com
+### Feito com:
 
 - HTML5
 - CSS3
